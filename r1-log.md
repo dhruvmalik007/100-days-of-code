@@ -1,4 +1,6 @@
-# #100DaysOfCode Log - Round 1 - ~Dhruv Malik~
+# #100DaysOfCode Log - Round 1 - 
+
+# Dhruv Malik
 
 The log of my #100DaysOfX challenge. Started on [4 May 2018].
 
@@ -21,3 +23,12 @@ Worked  on **Making a web page Things-to-come.tech**[things-to-come.tech](https:
 2. complete previous days work
 
 
+## R1D3
+
+### 1. Did significant work on things-to-come.tech page along with reading the  book on programming languages
+
+### 2. created repositories of the webpage and also for DataScience coursetrack
+
+## Things to work upon:-
+
+1. do serious contribution each day in the repositories (minimum 10 commits ) and work on blockchain smart contract dev , web dev and Automated CI and travis testing.
