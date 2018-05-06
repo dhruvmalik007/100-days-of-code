@@ -32,3 +32,11 @@ Worked  on **Making a web page Things-to-come.tech**[things-to-come.tech](https:
 ## Things to work upon:-
 
 1. do serious contribution each day in the repositories (minimum 10 commits ) and work on blockchain smart contract dev , web dev and Automated CI and travis testing.
+
+## R1D3
+
+### 1. worked on 1st data science track (fundamentals) and watched elclassico XO .
+
+
+# Things to work upon:-
+Dont waste time
