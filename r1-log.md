@@ -1,10 +1,10 @@
-# #100DaysOfCode Log - Round 1 - 
+# #100DaysOfCode_&_Life_Upliftment_Challange Log - Round 1 - 
 
 # Dhruv Malik
 
-The log of my #100DaysOfX challenge. Started on [4 May 2018].
+The log of my #100DaysOfX challenge.Initially  Started on [4 May 2018] , now again started from scratch from [8th may 2019] on victory Of europe dqy , with new enthusiasm.
 
-## Log
+## Log :- (ist try , just 4 days , now its with more determination)
 
 ### R1D1 
 Read paper on Making a unambiguous  programming language perfect for artificial Intelligence using **Sanskrit**(*reason beautifully explained in this paper*) :-[Click here] https://pdfs.semanticscholar.org/3be9/3d7d713796ae7f2c1f8e55449f2e530bce2f.pdf. seems awesome prospect to save our heritage and make  a common standard for writing AGI based programs 
@@ -35,7 +35,19 @@ Worked  on **Making a web page Things-to-come.tech**[things-to-come.tech](https:
 
 ## R1D3
 
-### 1. worked on 1st data science track (fundamentals) and watched elclassico XO .
+### 1. worked on 1st data science track (fundamentals) writting the basic fetch and fitting block mode.
+
+
+and after that one year after
+----------------------------------------------------------------------------
+
+## Day - 1 ( 8th may 2019 :-  VE day)
+
+1. Committed some good README's for the both profiles 
+2. then worked on arranging the report and ppt for next time.
+
+
+
 
 
 # Things to work upon:-
